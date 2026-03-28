@@ -1,5 +1,8 @@
-fastapi
-uvicorn
-PyPDF2
-pdfplumber
-reportlab
+# PDF extraction — primary backend
+pdfplumber>=0.10.0
+
+# PDF extraction — fallback backend (optional but recommended)
+PyMuPDF>=1.23.0
+
+# PDF creation (used only for generating sample test claims)
+reportlab>=4.0.0

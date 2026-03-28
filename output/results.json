@@ -1,0 +1,102 @@
+[
+  {
+    "file_name": "claim_auto_clean.pdf",
+    "extracted_data": {
+      "claimant_name": "John A. Harrington",
+      "policy_number": "2024",
+      "claim_amount": 4750.0,
+      "incident_date": "2024-03-15",
+      "claim_type": "Auto",
+      "description": "On March 15, 2024, the insured vehicle (2019 Honda Civic) was struck from\nbehind at a red light on Main Street. The rear bumper and trunk sustained\nsignificant damage. A police report was filed at the scene (Report #2024-0315).\nRepair estimates have been obtained from two certified auto repair shops."
+    },
+    "validation": {
+      "missing_fields": [],
+      "inconsistencies": [],
+      "flags": []
+    },
+    "decision": {
+      "status": "ACCEPT",
+      "reason": "All required fields present, no inconsistencies detected, claim appears valid."
+    }
+  },
+  {
+    "file_name": "claim_incomplete.pdf",
+    "extracted_data": {
+      "claimant_name": null,
+      "policy_number": null,
+      "claim_amount": 8200.0,
+      "incident_date": "2024-09-10",
+      "claim_type": "Auto",
+      "description": "HEALTH INSURANCE CLAIM\nDate of Service: 09/10/2024\nTreatment: Emergency surgery following automobile accident.\nTotal Medical Bills: $8,200.00\nThe claimant was admitted to General Hospital on September 10, 2024.\nHospitalization lasted 3 days. All services rendered by in-network providers.\nPlease process this claim at your earliest convenience."
+    },
+    "validation": {
+      "missing_fields": [
+        "claimant_name",
+        "policy_number"
+      ],
+      "inconsistencies": [],
+      "flags": [
+        "Missing policy number — cannot verify coverage",
+        "Missing claimant name — identity unverifiable"
+      ]
+    },
+    "decision": {
+      "status": "REJECT",
+      "reason": "Missing critical field(s): claimant_name, policy_number. Claim cannot be processed without this information."
+    }
+  },
+  {
+    "file_name": "claim_property_high_value.pdf",
+    "extracted_data": {
+      "claimant_name": "Margaret L. Fontaine",
+      "policy_number": "77123",
+      "claim_amount": 15000.0,
+      "incident_date": null,
+      "claim_type": "Property",
+      "description": "A severe storm caused flooding in the basement and first floor of the\ninsured property at 44 Birchwood Lane. Damage includes ruined flooring,\ndamaged drywall, and loss of personal property including appliances.\nContractor estimates total restoration cost at $15,000."
+    },
+    "validation": {
+      "missing_fields": [
+        "incident_date"
+      ],
+      "inconsistencies": [],
+      "flags": [
+        "High-value claim: $15,000.00 exceeds threshold of $10,000",
+        "Claim amount is a suspiciously round number: $15,000"
+      ]
+    },
+    "decision": {
+      "status": "FLAG",
+      "reason": "Fraud indicators: High-value claim: $15,000.00 exceeds threshold of $10,000; Claim amount is a suspiciously round number: $15,000 | Non-critical missing field(s): incident_date"
+    }
+  },
+  {
+    "file_name": "claim_suspicious.pdf",
+    "extracted_data": {
+      "claimant_name": "Robert K. Simmons",
+      "policy_number": "99001",
+      "claim_amount": 25000.0,
+      "incident_date": "2024-11-01",
+      "claim_type": null,
+      "description": "Items were damaged. Cash only preferred. Urgent payment needed.\nWire transfer requested. No receipts available."
+    },
+    "validation": {
+      "missing_fields": [],
+      "inconsistencies": [
+        "Multiple conflicting dollar amounts found in document (range: $500.00 – $200,000.00). Extracted: $25,000.00."
+      ],
+      "flags": [
+        "High-value claim: $25,000.00 exceeds threshold of $10,000",
+        "Claim amount is a suspiciously round number: $25,000",
+        "Suspicious phrase detected in description: 'cash only'",
+        "Suspicious phrase detected in description: 'no receipt'",
+        "Suspicious phrase detected in description: 'urgent'",
+        "Suspicious phrase detected in description: 'wire transfer'"
+      ]
+    },
+    "decision": {
+      "status": "FLAG",
+      "reason": "Fraud indicators: High-value claim: $25,000.00 exceeds threshold of $10,000; Claim amount is a suspiciously round number: $25,000; Suspicious phrase detected in description: 'cash only'; Suspicious phrase detected in description: 'no receipt'; Suspicious phrase detected in description: 'urgent'; Suspicious phrase detected in description: 'wire transfer' | Data issues: Multiple conflicting dollar amounts found in document (range: $500.00 – $200,000.00). Extracted: $25,000.00."
+    }
+  }
+]
