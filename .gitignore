@@ -1,15 +1,13 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-env/
-venv/
-.env
+# PDF extraction — primary backend
+pdfplumber>=0.10.0
 
-# VSCode
-.vscode/
+# PDF extraction — fallback backend (optional but recommended)
+PyMuPDF>=1.23.0
 
-# OS files
-.DS_Store
-Thumbs.db
+# PDF creation (used only for generating sample test claims)
+reportlab>=4.0.0
+
+# API
+fastapi>=0.111.0
+uvicorn>=0.29.0
+python-multipart>=0.0.9

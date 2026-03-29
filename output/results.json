@@ -17,7 +17,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "1"
   },
   {
     "file_name": "clean_002_cigna.pdf",
@@ -37,7 +38,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "2"
   },
   {
     "file_name": "clean_003_hcfa.pdf",
@@ -57,7 +59,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "3"
   },
   {
     "file_name": "clean_004_cigna.pdf",
@@ -77,7 +80,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "4"
   },
   {
     "file_name": "clean_005_hcfa.pdf",
@@ -97,7 +101,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "5"
   },
   {
     "file_name": "clean_006_cigna.pdf",
@@ -117,7 +122,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "6"
   },
   {
     "file_name": "clean_007_hcfa.pdf",
@@ -137,7 +143,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "7"
   },
   {
     "file_name": "clean_008_cigna.pdf",
@@ -157,7 +164,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "8"
   },
   {
     "file_name": "clean_009_hcfa.pdf",
@@ -177,7 +185,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "9"
   },
   {
     "file_name": "clean_010_cigna.pdf",
@@ -197,7 +206,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "10"
   },
   {
     "file_name": "clean_011_hcfa.pdf",
@@ -217,7 +227,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "11"
   },
   {
     "file_name": "clean_012_cigna.pdf",
@@ -237,7 +248,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "12"
   },
   {
     "file_name": "clean_013_hcfa.pdf",
@@ -257,7 +269,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "13"
   },
   {
     "file_name": "clean_014_cigna.pdf",
@@ -277,7 +290,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "14"
   },
   {
     "file_name": "clean_015_hcfa.pdf",
@@ -297,7 +311,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "15"
   },
   {
     "file_name": "clean_016_cigna.pdf",
@@ -317,7 +332,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "16"
   },
   {
     "file_name": "clean_017_hcfa.pdf",
@@ -337,7 +353,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "17"
   },
   {
     "file_name": "clean_018_cigna.pdf",
@@ -357,7 +374,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "18"
   },
   {
     "file_name": "clean_019_hcfa.pdf",
@@ -377,7 +395,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "19"
   },
   {
     "file_name": "clean_020_cigna.pdf",
@@ -397,7 +416,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "20"
   },
   {
     "file_name": "clean_021_hcfa.pdf",
@@ -417,7 +437,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "21"
   },
   {
     "file_name": "clean_022_cigna.pdf",
@@ -437,7 +458,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "22"
   },
   {
     "file_name": "clean_023_hcfa.pdf",
@@ -457,7 +479,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "23"
   },
   {
     "file_name": "clean_024_cigna.pdf",
@@ -477,7 +500,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "24"
   },
   {
     "file_name": "clean_025_hcfa.pdf",
@@ -497,7 +521,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "25"
   },
   {
     "file_name": "clean_026_cigna.pdf",
@@ -517,7 +542,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "26"
   },
   {
     "file_name": "clean_027_hcfa.pdf",
@@ -537,7 +563,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "27"
   },
   {
     "file_name": "clean_028_cigna.pdf",
@@ -557,7 +584,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "28"
   },
   {
     "file_name": "clean_029_hcfa.pdf",
@@ -577,7 +605,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "29"
   },
   {
     "file_name": "clean_030_cigna.pdf",
@@ -597,7 +626,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "30"
   },
   {
     "file_name": "clean_031_hcfa.pdf",
@@ -617,7 +647,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "31"
   },
   {
     "file_name": "clean_032_cigna.pdf",
@@ -637,7 +668,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "32"
   },
   {
     "file_name": "clean_033_hcfa.pdf",
@@ -657,7 +689,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "33"
   },
   {
     "file_name": "clean_034_cigna.pdf",
@@ -677,7 +710,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "34"
   },
   {
     "file_name": "clean_035_hcfa.pdf",
@@ -697,7 +731,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "35"
   },
   {
     "file_name": "clean_036_cigna.pdf",
@@ -717,7 +752,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "36"
   },
   {
     "file_name": "clean_037_hcfa.pdf",
@@ -737,7 +773,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "37"
   },
   {
     "file_name": "clean_038_cigna.pdf",
@@ -757,7 +794,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "38"
   },
   {
     "file_name": "clean_039_hcfa.pdf",
@@ -777,7 +815,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "39"
   },
   {
     "file_name": "clean_040_cigna.pdf",
@@ -797,7 +836,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "40"
   },
   {
     "file_name": "clean_041_hcfa.pdf",
@@ -817,7 +857,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "41"
   },
   {
     "file_name": "clean_042_cigna.pdf",
@@ -837,7 +878,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "42"
   },
   {
     "file_name": "clean_043_hcfa.pdf",
@@ -857,7 +899,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "43"
   },
   {
     "file_name": "clean_044_cigna.pdf",
@@ -877,7 +920,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "44"
   },
   {
     "file_name": "clean_045_hcfa.pdf",
@@ -897,7 +941,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "45"
   },
   {
     "file_name": "clean_046_cigna.pdf",
@@ -917,7 +962,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "46"
   },
   {
     "file_name": "clean_047_hcfa.pdf",
@@ -937,7 +983,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "47"
   },
   {
     "file_name": "clean_048_cigna.pdf",
@@ -957,7 +1004,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "48"
   },
   {
     "file_name": "clean_049_hcfa.pdf",
@@ -977,7 +1025,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "49"
   },
   {
     "file_name": "clean_050_cigna.pdf",
@@ -997,7 +1046,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "50"
   },
   {
     "file_name": "clean_051_hcfa.pdf",
@@ -1017,7 +1067,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "51"
   },
   {
     "file_name": "clean_052_cigna.pdf",
@@ -1037,7 +1088,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "52"
   },
   {
     "file_name": "clean_053_hcfa.pdf",
@@ -1057,7 +1109,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "53"
   },
   {
     "file_name": "clean_054_cigna.pdf",
@@ -1077,7 +1130,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "54"
   },
   {
     "file_name": "clean_055_hcfa.pdf",
@@ -1097,7 +1151,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "55"
   },
   {
     "file_name": "clean_056_cigna.pdf",
@@ -1117,7 +1172,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "56"
   },
   {
     "file_name": "clean_057_hcfa.pdf",
@@ -1137,7 +1193,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "57"
   },
   {
     "file_name": "clean_058_cigna.pdf",
@@ -1157,7 +1214,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "58"
   },
   {
     "file_name": "clean_059_hcfa.pdf",
@@ -1177,7 +1235,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "59"
   },
   {
     "file_name": "clean_060_cigna.pdf",
@@ -1197,7 +1256,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "60"
   },
   {
     "file_name": "clean_061_hcfa.pdf",
@@ -1217,7 +1277,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "61"
   },
   {
     "file_name": "clean_062_cigna.pdf",
@@ -1237,7 +1298,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "62"
   },
   {
     "file_name": "clean_063_hcfa.pdf",
@@ -1257,7 +1319,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "63"
   },
   {
     "file_name": "clean_064_cigna.pdf",
@@ -1277,7 +1340,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "64"
   },
   {
     "file_name": "clean_065_hcfa.pdf",
@@ -1297,7 +1361,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "65"
   },
   {
     "file_name": "clean_066_cigna.pdf",
@@ -1317,7 +1382,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "66"
   },
   {
     "file_name": "clean_067_hcfa.pdf",
@@ -1337,7 +1403,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "67"
   },
   {
     "file_name": "clean_068_cigna.pdf",
@@ -1357,7 +1424,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "68"
   },
   {
     "file_name": "clean_069_hcfa.pdf",
@@ -1377,7 +1445,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "69"
   },
   {
     "file_name": "clean_070_cigna.pdf",
@@ -1397,7 +1466,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "70"
   },
   {
     "file_name": "clean_071_hcfa.pdf",
@@ -1417,7 +1487,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "71"
   },
   {
     "file_name": "clean_072_cigna.pdf",
@@ -1437,7 +1508,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "72"
   },
   {
     "file_name": "clean_073_hcfa.pdf",
@@ -1457,7 +1529,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "73"
   },
   {
     "file_name": "clean_074_cigna.pdf",
@@ -1477,7 +1550,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "74"
   },
   {
     "file_name": "clean_075_hcfa.pdf",
@@ -1497,7 +1571,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "75"
   },
   {
     "file_name": "clean_076_cigna.pdf",
@@ -1517,7 +1592,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "76"
   },
   {
     "file_name": "clean_077_hcfa.pdf",
@@ -1537,7 +1613,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "77"
   },
   {
     "file_name": "clean_078_cigna.pdf",
@@ -1557,7 +1634,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "78"
   },
   {
     "file_name": "clean_079_hcfa.pdf",
@@ -1577,7 +1655,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "79"
   },
   {
     "file_name": "clean_080_cigna.pdf",
@@ -1597,7 +1676,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "80"
   },
   {
     "file_name": "edge_171_hcfa.pdf",
@@ -1621,7 +1701,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $25,365.35 exceeds review threshold of $10,000 | Data issues: Conflicting dollar amounts in document (range: $2,514.74–$25,365.35, extracted: $25,365.35)"
-    }
+    },
+    "id": "81"
   },
   {
     "file_name": "edge_172_cigna.pdf",
@@ -1643,7 +1724,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Claim filed same day as incident (2026-03-28); uncommon outside emergency situations."
-    }
+    },
+    "id": "82"
   },
   {
     "file_name": "edge_173_hcfa.pdf",
@@ -1663,7 +1745,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "83"
   },
   {
     "file_name": "edge_174_cigna.pdf",
@@ -1683,7 +1766,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "84"
   },
   {
     "file_name": "edge_175_hcfa.pdf",
@@ -1707,7 +1791,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $13,512.04 exceeds review threshold of $10,000 | Data issues: Conflicting dollar amounts in document (range: $1,310.12–$13,512.04, extracted: $13,512.04)"
-    }
+    },
+    "id": "85"
   },
   {
     "file_name": "edge_176_cigna.pdf",
@@ -1727,7 +1812,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "86"
   },
   {
     "file_name": "edge_177_hcfa.pdf",
@@ -1751,7 +1837,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $37,478.29 exceeds review threshold of $10,000 | Data issues: Conflicting dollar amounts in document (range: $262.75–$37,478.29, extracted: $37,478.29)"
-    }
+    },
+    "id": "87"
   },
   {
     "file_name": "edge_178_cigna.pdf",
@@ -1773,7 +1860,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Claim filed same day as incident (2026-03-28); uncommon outside emergency situations."
-    }
+    },
+    "id": "88"
   },
   {
     "file_name": "edge_179_hcfa.pdf",
@@ -1793,7 +1881,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "89"
   },
   {
     "file_name": "edge_180_cigna.pdf",
@@ -1813,7 +1902,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "90"
   },
   {
     "file_name": "edge_181_hcfa.pdf",
@@ -1835,7 +1925,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Data issues: Conflicting dollar amounts in document (range: $859.39–$9,661.04, extracted: $9,661.04)"
-    }
+    },
+    "id": "91"
   },
   {
     "file_name": "edge_182_cigna.pdf",
@@ -1855,7 +1946,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "92"
   },
   {
     "file_name": "edge_183_hcfa.pdf",
@@ -1879,7 +1971,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $42,393.70 exceeds review threshold of $10,000 | Data issues: Conflicting dollar amounts in document (range: $1,987.57–$42,393.70, extracted: $42,393.70)"
-    }
+    },
+    "id": "93"
   },
   {
     "file_name": "edge_184_cigna.pdf",
@@ -1901,7 +1994,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Claim filed same day as incident (2026-03-28); uncommon outside emergency situations."
-    }
+    },
+    "id": "94"
   },
   {
     "file_name": "edge_185_hcfa.pdf",
@@ -1921,7 +2015,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "95"
   },
   {
     "file_name": "edge_186_cigna.pdf",
@@ -1941,7 +2036,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "96"
   },
   {
     "file_name": "edge_187_hcfa.pdf",
@@ -1963,7 +2059,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $14,091.86 exceeds review threshold of $10,000"
-    }
+    },
+    "id": "97"
   },
   {
     "file_name": "edge_188_cigna.pdf",
@@ -1983,7 +2080,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "98"
   },
   {
     "file_name": "edge_189_hcfa.pdf",
@@ -2007,7 +2105,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $12,337.08 exceeds review threshold of $10,000 | Data issues: Conflicting dollar amounts in document (range: $798.87–$12,337.08, extracted: $12,337.08)"
-    }
+    },
+    "id": "99"
   },
   {
     "file_name": "edge_190_cigna.pdf",
@@ -2029,7 +2128,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Claim filed same day as incident (2026-03-28); uncommon outside emergency situations."
-    }
+    },
+    "id": "100"
   },
   {
     "file_name": "edge_191_hcfa.pdf",
@@ -2049,7 +2149,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "101"
   },
   {
     "file_name": "edge_192_cigna.pdf",
@@ -2069,7 +2170,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "102"
   },
   {
     "file_name": "edge_193_hcfa.pdf",
@@ -2093,7 +2195,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $12,325.49 exceeds review threshold of $10,000 | Data issues: Conflicting dollar amounts in document (range: $672.60–$12,325.49, extracted: $12,325.49)"
-    }
+    },
+    "id": "103"
   },
   {
     "file_name": "edge_194_cigna.pdf",
@@ -2113,7 +2216,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "104"
   },
   {
     "file_name": "edge_195_hcfa.pdf",
@@ -2137,7 +2241,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $30,448.72 exceeds review threshold of $10,000 | Data issues: Conflicting dollar amounts in document (range: $2,474.02–$30,448.72, extracted: $30,448.72)"
-    }
+    },
+    "id": "105"
   },
   {
     "file_name": "edge_196_cigna.pdf",
@@ -2159,7 +2264,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Claim filed same day as incident (2026-03-28); uncommon outside emergency situations."
-    }
+    },
+    "id": "106"
   },
   {
     "file_name": "edge_197_hcfa.pdf",
@@ -2179,7 +2285,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "107"
   },
   {
     "file_name": "edge_198_cigna.pdf",
@@ -2199,7 +2306,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "108"
   },
   {
     "file_name": "edge_199_hcfa.pdf",
@@ -2221,7 +2329,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $19,499.88 exceeds review threshold of $10,000"
-    }
+    },
+    "id": "109"
   },
   {
     "file_name": "edge_200_cigna.pdf",
@@ -2241,7 +2350,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "110"
   },
   {
     "file_name": "fraud_081_hcfa.pdf",
@@ -2264,7 +2374,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $111,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $111,000"
-    }
+    },
+    "id": "111"
   },
   {
     "file_name": "fraud_082_cigna.pdf",
@@ -2289,7 +2400,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $20,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $20,000 | Data issues: Conflicting dollar amounts in document (range: $1,424.75–$20,000.00, extracted: $20,000.00)"
-    }
+    },
+    "id": "112"
   },
   {
     "file_name": "fraud_083_hcfa.pdf",
@@ -2309,7 +2421,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "113"
   },
   {
     "file_name": "fraud_084_cigna.pdf",
@@ -2331,7 +2444,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Incident date is in the future: 2026-06-19 — likely fraudulent or data entry error"
-    }
+    },
+    "id": "114"
   },
   {
     "file_name": "fraud_085_hcfa.pdf",
@@ -2354,7 +2468,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $25,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $25,000"
-    }
+    },
+    "id": "115"
   },
   {
     "file_name": "fraud_086_cigna.pdf",
@@ -2378,7 +2493,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "116"
   },
   {
     "file_name": "fraud_087_hcfa.pdf",
@@ -2400,7 +2516,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $24,298.64 exceeds review threshold of $10,000"
-    }
+    },
+    "id": "117"
   },
   {
     "file_name": "fraud_088_cigna.pdf",
@@ -2423,7 +2540,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $104,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $104,000"
-    }
+    },
+    "id": "118"
   },
   {
     "file_name": "fraud_089_hcfa.pdf",
@@ -2448,7 +2566,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $75,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $75,000 | Data issues: Conflicting dollar amounts in document (range: $149.88–$75,000.00, extracted: $75,000.00)"
-    }
+    },
+    "id": "119"
   },
   {
     "file_name": "fraud_090_cigna.pdf",
@@ -2468,7 +2587,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "120"
   },
   {
     "file_name": "fraud_091_hcfa.pdf",
@@ -2490,7 +2610,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Incident date is in the future: 2026-08-01 — likely fraudulent or data entry error"
-    }
+    },
+    "id": "121"
   },
   {
     "file_name": "fraud_092_cigna.pdf",
@@ -2515,7 +2636,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $45,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $45,000 | Data issues: Conflicting dollar amounts in document (range: $1,420.65–$45,000.00, extracted: $45,000.00)"
-    }
+    },
+    "id": "122"
   },
   {
     "file_name": "fraud_093_hcfa.pdf",
@@ -2539,7 +2661,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "123"
   },
   {
     "file_name": "fraud_094_cigna.pdf",
@@ -2563,7 +2686,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $25,207.87 exceeds review threshold of $10,000 | Data issues: Conflicting dollar amounts in document (range: $1,815.57–$25,207.87, extracted: $25,207.87)"
-    }
+    },
+    "id": "124"
   },
   {
     "file_name": "fraud_095_hcfa.pdf",
@@ -2586,7 +2710,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $70,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $70,000"
-    }
+    },
+    "id": "125"
   },
   {
     "file_name": "fraud_096_cigna.pdf",
@@ -2611,7 +2736,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $50,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $50,000 | Data issues: Conflicting dollar amounts in document (range: $2,650.11–$50,000.00, extracted: $50,000.00)"
-    }
+    },
+    "id": "126"
   },
   {
     "file_name": "fraud_097_hcfa.pdf",
@@ -2631,7 +2757,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "127"
   },
   {
     "file_name": "fraud_098_cigna.pdf",
@@ -2653,7 +2780,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Incident date is in the future: 2026-06-04 — likely fraudulent or data entry error"
-    }
+    },
+    "id": "128"
   },
   {
     "file_name": "fraud_099_hcfa.pdf",
@@ -2676,7 +2804,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $29,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $29,000"
-    }
+    },
+    "id": "129"
   },
   {
     "file_name": "fraud_100_cigna.pdf",
@@ -2700,7 +2829,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "130"
   },
   {
     "file_name": "fraud_101_hcfa.pdf",
@@ -2724,7 +2854,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $59,628.67 exceeds review threshold of $10,000 | Data issues: Conflicting dollar amounts in document (range: $2,755.29–$59,628.67, extracted: $59,628.67)"
-    }
+    },
+    "id": "131"
   },
   {
     "file_name": "fraud_102_cigna.pdf",
@@ -2747,7 +2878,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $157,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $157,000"
-    }
+    },
+    "id": "132"
   },
   {
     "file_name": "fraud_103_hcfa.pdf",
@@ -2772,7 +2904,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $75,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $75,000 | Data issues: Conflicting dollar amounts in document (range: $2,527.20–$75,000.00, extracted: $75,000.00)"
-    }
+    },
+    "id": "133"
   },
   {
     "file_name": "fraud_104_cigna.pdf",
@@ -2792,7 +2925,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "134"
   },
   {
     "file_name": "fraud_105_hcfa.pdf",
@@ -2814,7 +2948,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Incident date is in the future: 2026-06-07 — likely fraudulent or data entry error"
-    }
+    },
+    "id": "135"
   },
   {
     "file_name": "fraud_106_cigna.pdf",
@@ -2838,7 +2973,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $36,500.00 exceeds review threshold of $10,000 | Data issues: Conflicting dollar amounts in document (range: $1,548.96–$36,500.00, extracted: $36,500.00)"
-    }
+    },
+    "id": "136"
   },
   {
     "file_name": "fraud_107_hcfa.pdf",
@@ -2862,7 +2998,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "137"
   },
   {
     "file_name": "fraud_108_cigna.pdf",
@@ -2886,7 +3023,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $70,096.85 exceeds review threshold of $10,000 | Data issues: Conflicting dollar amounts in document (range: $1,279.43–$70,096.85, extracted: $70,096.85)"
-    }
+    },
+    "id": "138"
   },
   {
     "file_name": "fraud_109_hcfa.pdf",
@@ -2909,7 +3047,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $179,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $179,000"
-    }
+    },
+    "id": "139"
   },
   {
     "file_name": "fraud_110_cigna.pdf",
@@ -2932,7 +3071,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $25,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $25,000"
-    }
+    },
+    "id": "140"
   },
   {
     "file_name": "fraud_111_hcfa.pdf",
@@ -2952,7 +3092,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "141"
   },
   {
     "file_name": "fraud_112_cigna.pdf",
@@ -2974,7 +3115,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Incident date is in the future: 2026-05-07 — likely fraudulent or data entry error"
-    }
+    },
+    "id": "142"
   },
   {
     "file_name": "fraud_113_hcfa.pdf",
@@ -2996,7 +3138,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $10,500.00 exceeds review threshold of $10,000"
-    }
+    },
+    "id": "143"
   },
   {
     "file_name": "fraud_114_cigna.pdf",
@@ -3020,7 +3163,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "144"
   },
   {
     "file_name": "fraud_115_hcfa.pdf",
@@ -3044,7 +3188,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $77,154.83 exceeds review threshold of $10,000 | Data issues: Conflicting dollar amounts in document (range: $1,647.45–$77,154.83, extracted: $77,154.83)"
-    }
+    },
+    "id": "145"
   },
   {
     "file_name": "fraud_116_cigna.pdf",
@@ -3067,7 +3212,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $84,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $84,000"
-    }
+    },
+    "id": "146"
   },
   {
     "file_name": "fraud_117_hcfa.pdf",
@@ -3092,7 +3238,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $75,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $75,000 | Data issues: Conflicting dollar amounts in document (range: $3,768.14–$75,000.00, extracted: $75,000.00)"
-    }
+    },
+    "id": "147"
   },
   {
     "file_name": "fraud_118_cigna.pdf",
@@ -3112,7 +3259,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "148"
   },
   {
     "file_name": "fraud_119_hcfa.pdf",
@@ -3134,7 +3282,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Incident date is in the future: 2026-06-26 — likely fraudulent or data entry error"
-    }
+    },
+    "id": "149"
   },
   {
     "file_name": "fraud_120_cigna.pdf",
@@ -3158,7 +3307,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $25,500.00 exceeds review threshold of $10,000 | Data issues: Conflicting dollar amounts in document (range: $2,174.52–$25,500.00, extracted: $25,500.00)"
-    }
+    },
+    "id": "150"
   },
   {
     "file_name": "fraud_121_hcfa.pdf",
@@ -3182,7 +3332,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "151"
   },
   {
     "file_name": "fraud_122_cigna.pdf",
@@ -3206,7 +3357,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $58,199.13 exceeds review threshold of $10,000 | Data issues: Conflicting dollar amounts in document (range: $115.50–$58,199.13, extracted: $58,199.13)"
-    }
+    },
+    "id": "152"
   },
   {
     "file_name": "fraud_123_hcfa.pdf",
@@ -3229,7 +3381,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $181,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $181,000"
-    }
+    },
+    "id": "153"
   },
   {
     "file_name": "fraud_124_cigna.pdf",
@@ -3254,7 +3407,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $25,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $25,000 | Data issues: Conflicting dollar amounts in document (range: $1,165.16–$25,000.00, extracted: $25,000.00)"
-    }
+    },
+    "id": "154"
   },
   {
     "file_name": "fraud_125_hcfa.pdf",
@@ -3274,7 +3428,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "155"
   },
   {
     "file_name": "fraud_126_cigna.pdf",
@@ -3296,7 +3451,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Incident date is in the future: 2026-09-02 — likely fraudulent or data entry error"
-    }
+    },
+    "id": "156"
   },
   {
     "file_name": "fraud_127_hcfa.pdf",
@@ -3321,7 +3477,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $31,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $31,000 | Data issues: Conflicting dollar amounts in document (range: $324.28–$31,000.00, extracted: $31,000.00)"
-    }
+    },
+    "id": "157"
   },
   {
     "file_name": "fraud_128_cigna.pdf",
@@ -3345,7 +3502,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "158"
   },
   {
     "file_name": "fraud_129_hcfa.pdf",
@@ -3369,7 +3527,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $65,422.78 exceeds review threshold of $10,000 | Data issues: Conflicting dollar amounts in document (range: $6,387.67–$65,422.78, extracted: $65,422.78)"
-    }
+    },
+    "id": "159"
   },
   {
     "file_name": "fraud_130_cigna.pdf",
@@ -3392,7 +3551,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: High-value claim: $215,000.00 exceeds review threshold of $10,000; Claim amount is a suspiciously round number: $215,000"
-    }
+    },
+    "id": "160"
   },
   {
     "file_name": "incomplete_131_hcfa.pdf",
@@ -3416,7 +3576,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Missing critical field(s): claimant_name. Claim cannot be processed without this information."
-    }
+    },
+    "id": "161"
   },
   {
     "file_name": "incomplete_132_cigna.pdf",
@@ -3440,7 +3601,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "162"
   },
   {
     "file_name": "incomplete_133_hcfa.pdf",
@@ -3462,7 +3624,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Invalid claim amount: Claim amount is non-positive: 0.0"
-    }
+    },
+    "id": "163"
   },
   {
     "file_name": "incomplete_134_cigna.pdf",
@@ -3488,7 +3651,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Missing critical field(s): claimant_name. Claim cannot be processed without this information."
-    }
+    },
+    "id": "164"
   },
   {
     "file_name": "incomplete_135_hcfa.pdf",
@@ -3508,7 +3672,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "165"
   },
   {
     "file_name": "incomplete_136_cigna.pdf",
@@ -3534,7 +3699,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Missing critical field(s): claimant_name. Claim cannot be processed without this information."
-    }
+    },
+    "id": "166"
   },
   {
     "file_name": "incomplete_137_hcfa.pdf",
@@ -3558,7 +3724,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "167"
   },
   {
     "file_name": "incomplete_138_cigna.pdf",
@@ -3582,7 +3749,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Missing critical field(s): claimant_name. Claim cannot be processed without this information."
-    }
+    },
+    "id": "168"
   },
   {
     "file_name": "incomplete_139_hcfa.pdf",
@@ -3606,7 +3774,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "169"
   },
   {
     "file_name": "incomplete_140_cigna.pdf",
@@ -3628,7 +3797,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Invalid claim amount: Claim amount is non-positive: 0.0"
-    }
+    },
+    "id": "170"
   },
   {
     "file_name": "incomplete_141_hcfa.pdf",
@@ -3654,7 +3824,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Missing critical field(s): claimant_name. Claim cannot be processed without this information."
-    }
+    },
+    "id": "171"
   },
   {
     "file_name": "incomplete_142_cigna.pdf",
@@ -3674,7 +3845,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "172"
   },
   {
     "file_name": "incomplete_143_hcfa.pdf",
@@ -3696,7 +3868,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Invalid claim amount: Claim amount is non-positive: 0.0"
-    }
+    },
+    "id": "173"
   },
   {
     "file_name": "incomplete_144_cigna.pdf",
@@ -3720,7 +3893,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "174"
   },
   {
     "file_name": "incomplete_145_hcfa.pdf",
@@ -3744,7 +3918,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Missing critical field(s): claimant_name. Claim cannot be processed without this information."
-    }
+    },
+    "id": "175"
   },
   {
     "file_name": "incomplete_146_cigna.pdf",
@@ -3768,7 +3943,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "176"
   },
   {
     "file_name": "incomplete_147_hcfa.pdf",
@@ -3790,7 +3966,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Invalid claim amount: Claim amount is non-positive: 0.0"
-    }
+    },
+    "id": "177"
   },
   {
     "file_name": "incomplete_148_cigna.pdf",
@@ -3816,7 +3993,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Missing critical field(s): claimant_name. Claim cannot be processed without this information."
-    }
+    },
+    "id": "178"
   },
   {
     "file_name": "incomplete_149_hcfa.pdf",
@@ -3836,7 +4014,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "179"
   },
   {
     "file_name": "incomplete_150_cigna.pdf",
@@ -3862,7 +4041,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Missing critical field(s): claimant_name. Claim cannot be processed without this information."
-    }
+    },
+    "id": "180"
   },
   {
     "file_name": "incomplete_151_hcfa.pdf",
@@ -3886,7 +4066,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "181"
   },
   {
     "file_name": "incomplete_152_cigna.pdf",
@@ -3910,7 +4091,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Missing critical field(s): claimant_name. Claim cannot be processed without this information."
-    }
+    },
+    "id": "182"
   },
   {
     "file_name": "incomplete_153_hcfa.pdf",
@@ -3934,7 +4116,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "183"
   },
   {
     "file_name": "incomplete_154_cigna.pdf",
@@ -3956,7 +4139,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Invalid claim amount: Claim amount is non-positive: 0.0"
-    }
+    },
+    "id": "184"
   },
   {
     "file_name": "incomplete_155_hcfa.pdf",
@@ -3982,7 +4166,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Missing critical field(s): claimant_name. Claim cannot be processed without this information."
-    }
+    },
+    "id": "185"
   },
   {
     "file_name": "incomplete_156_cigna.pdf",
@@ -4002,7 +4187,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "186"
   },
   {
     "file_name": "incomplete_157_hcfa.pdf",
@@ -4028,7 +4214,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Missing critical field(s): claimant_name. Claim cannot be processed without this information."
-    }
+    },
+    "id": "187"
   },
   {
     "file_name": "incomplete_158_cigna.pdf",
@@ -4052,7 +4239,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "188"
   },
   {
     "file_name": "incomplete_159_hcfa.pdf",
@@ -4072,7 +4260,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "189"
   },
   {
     "file_name": "incomplete_160_cigna.pdf",
@@ -4096,7 +4285,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "190"
   },
   {
     "file_name": "incomplete_161_hcfa.pdf",
@@ -4118,7 +4308,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Invalid claim amount: Claim amount is non-positive: 0.0"
-    }
+    },
+    "id": "191"
   },
   {
     "file_name": "incomplete_162_cigna.pdf",
@@ -4144,7 +4335,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Missing critical field(s): claimant_name. Claim cannot be processed without this information."
-    }
+    },
+    "id": "192"
   },
   {
     "file_name": "incomplete_163_hcfa.pdf",
@@ -4164,7 +4356,8 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "193"
   },
   {
     "file_name": "incomplete_164_cigna.pdf",
@@ -4190,7 +4383,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Missing critical field(s): claimant_name. Claim cannot be processed without this information."
-    }
+    },
+    "id": "194"
   },
   {
     "file_name": "incomplete_165_hcfa.pdf",
@@ -4214,7 +4408,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "195"
   },
   {
     "file_name": "incomplete_166_cigna.pdf",
@@ -4238,7 +4433,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Missing critical field(s): claimant_name. Claim cannot be processed without this information."
-    }
+    },
+    "id": "196"
   },
   {
     "file_name": "incomplete_167_hcfa.pdf",
@@ -4262,7 +4458,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "197"
   },
   {
     "file_name": "incomplete_168_cigna.pdf",
@@ -4284,7 +4481,8 @@
     "decision": {
       "status": "REJECT",
       "reason": "Invalid claim amount: Claim amount is non-positive: 0.0"
-    }
+    },
+    "id": "198"
   },
   {
     "file_name": "incomplete_169_hcfa.pdf",
@@ -4308,7 +4506,8 @@
     "decision": {
       "status": "FLAG",
       "reason": "Fraud/suspicious indicators: Missing policy number — coverage cannot be verified | Missing field(s): policy_number"
-    }
+    },
+    "id": "199"
   },
   {
     "file_name": "incomplete_170_cigna.pdf",
@@ -4328,6 +4527,35 @@
     "decision": {
       "status": "ACCEPT",
       "reason": "All required fields present, no inconsistencies detected, claim appears valid."
-    }
+    },
+    "id": "200"
+  },
+  {
+    "file_name": "Cigna Insurance claim sample.pdf",
+    "extracted_data": {
+      "claimant_name": "Alaska, Arizona",
+      "policy_number": null,
+      "claim_amount": 5000.0,
+      "incident_date": null,
+      "claim_type": "Auto",
+      "description": "You only need to fill out this form if your health care professional isn't filing the claim for you."
+    },
+    "validation": {
+      "missing_fields": [
+        "policy_number",
+        "incident_date"
+      ],
+      "inconsistencies": [],
+      "flags": [
+        "Claim amount is a suspiciously round number: $5,000",
+        "Missing policy number — coverage cannot be verified"
+      ]
+    },
+    "decision": {
+      "status": "FLAG",
+      "reason": "Fraud/suspicious indicators: Claim amount is a suspiciously round number: $5,000; Missing policy number — coverage cannot be verified | Missing field(s): policy_number, incident_date"
+    },
+    "id": "43367ef8-c06b-49dc-b551-0b64a97550aa",
+    "original_name": "Cigna Insurance claim sample.pdf"
   }
 ]
